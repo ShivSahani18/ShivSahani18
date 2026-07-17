@@ -5,7 +5,7 @@
 
 I enjoy designing clean interfaces and building modern web applications using AI-assisted workflows. I combine UI design, development knowledge, and modern technologies to transform ideas into real-world products. I'm passionate about creating visually appealing, performant, and user-friendly digital experiences.<br><br>
 
-📫 <b>Reach me:</b> your@email.com<br><br>
+📫 <b>Reach me:</b> thumbsclean@gmail.com<br><br>
 
 🚀 <b>Currently building:</b> Modern Full Stack Applications<br>
 📚 <b>Currently learning:</b> Next.js, Flutter, Cloud & System Design<br>
